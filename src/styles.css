@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+.yes {
+  background-color: green;
+}
+.no {
+  background-color: red;
+}
+
+.container {
+  padding: 50px;
+}
